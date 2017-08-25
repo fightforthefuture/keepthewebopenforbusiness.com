@@ -9,13 +9,13 @@ layout: default
 
 # "We are deeply concerned with the FCC's proposal to roll back its existing strong net neutrality rules."
 
-## Small businesses are speaking out for net neutrality. Join them below.
+## Small businesses are speaking out for net neutrality.
 
 * [Businesses](#businesses)
 * [Sign On](#signon)
 {: class="hide" }
 
-<a href="#letter" class="button">Sign the letter</a>
+<a href="#letter" class="button">Sign on below</a>
 
 </div>
 

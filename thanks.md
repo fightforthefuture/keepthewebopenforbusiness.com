@@ -17,9 +17,11 @@ layout: default
 
 > Thank you for signing on the to the open letter. We will keep in touch as the campaign develops.
 > 
-> Now, will you take the next step and share this campaign to maximize your impact?
+> Now, will you take the next step and share this campaign to maximize your impact? Share now with just a couple of clicks:
 > 
-> *Please forward this open letter to any small or medium-sized businesses that might be interested in signing on before COB on August 29th.*
+><img src="/images/facebook-share.png><img src="/images/twitter-share.png>
+>
+> *And please forward this open letter to any small or medium-sized businesses that might be interested in signing on before COB on August 29th.*
 > 
 > *Email or text the URL “KeepTheWebOpenForBusiness.com” to everyone you know in the business community.*
 > 

@@ -116,8 +116,9 @@ See over 150 more
 <div class="section letter">
 
 ## The Letter
-### Deadline for sign on is COB Aug. 29th
 {: #letter }
+
+### Deadline for sign on is COB Aug. 29th
 
 {: #signon}
 
@@ -230,6 +231,8 @@ services.
 > Thank you for considering our views.
 
 </div>
+
+[Sign the letter](#letter){: .button}
 
 ---
 

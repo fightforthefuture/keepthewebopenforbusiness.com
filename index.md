@@ -15,7 +15,7 @@ layout: default
 * [Sign On](#signon)
 {: class="hide" }
 
-<a href="#letter" class="button">Sign on below</a>
+<a href="#letter" class="button">Join them below</a>
 
 </div>
 

@@ -130,26 +130,21 @@ See over 150 more
 <form method="post" action="https://queue.fightforthefuture.org/action" accept-charset="UTF-8">
 	<div class="message" style="display: none;"></div>
 	<div>
-		<label for="member[first_name]">Name <span>*</span></label>
-		<input id='full_name' type="text" name="member[first_name]" placeholder="Name" title="Full Name" autocomplete="name" required>
+		<input id='full_name' type="text" name="member[first_name]" placeholder="Name *" title="Full Name" autocomplete="name" required>
 	</div>
 	<div>
-		<label for="member[company]">Company Name<span>*</span></label>
-		<input id='company' type="text" name="member[company]" placeholder="Company Name" title="Company name" required>
+		<input id='company' type="text" name="member[company]" placeholder="Company Name *" title="Company name" required>
 	</div>
 	<div>
-		<label for="member[email]">Email <span>*</span></label>
-		<input id='email' type="email" name="member[email]" placeholder="Email" title="Email" required>
+		<input id='email' type="email" name="member[email]" placeholder="Email *" title="Email" required>
 	</div>
 	<div>
-		<label for="member[postcode]">Zip Code <span>*</span></label>
 		<p>This information is helpful in the formal submission to the FCC.</p>
-		<input id="postcode" type="text" name="member[postcode]" placeholder="Zip Code" title="Postcode" required>
+		<input id="postcode" type="text" name="member[postcode]" placeholder="Zip Code *" title="Postcode" required>
 	</div>
 	<div>
-		<label for="phone_number">Phone Number</label>
 		<p>This information is optional, but will allow us to get in contact if there are any campaign developments we think you should be aware of.</p>
-		<input id="phone" type="tel" name="member[phone_number]" placeholder="Phone #" title="Phone">
+		<input id="phone" type="tel" name="member[phone_number]" placeholder="Phone Number" title="Phone">
 	</div>
 
 	<div>

@@ -7,7 +7,9 @@ layout: default
 
 <div class="section intro">
 
-# We are deeply concerned with the FCC's proposal to roll back its existing strong net neutrality rules.
+# "We are deeply concerned with the FCC's proposal to roll back its existing strong net neutrality rules."
+
+## Small businesses are speaking out for net neutrality. Join them below.
 
 * [Businesses](#businesses)
 * [Sign On](#signon)

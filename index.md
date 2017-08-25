@@ -9,7 +9,7 @@ layout: default
 
 # "We are deeply concerned with the FCC's proposal to roll back its existing strong net neutrality rules."
 
-## Small businesses are speaking out for net neutrality.
+## Small businesses are speaking out against new fees, throttling & censorship online.
 
 * [Businesses](#businesses)
 * [Sign On](#signon)
@@ -117,6 +117,7 @@ See over 150 more
 <div class="section letter">
 
 ## The Letter
+### Deadline for sign on is COB Aug. 29th
 {: #letter }
 
 {: #signon}
@@ -139,12 +140,12 @@ See over 150 more
 		<input id='email' type="email" name="member[email]" placeholder="Email *" title="Email" required>
 	</div>
 	<div>
-		<p>This information is helpful in the formal submission to the FCC.</p>
 		<input id="postcode" type="text" name="member[postcode]" placeholder="Zip Code *" title="Postcode" required>
+		<p>This information is helpful in the formal submission to the FCC.</p>
 	</div>
 	<div>
-		<p>This information is optional, but will allow us to get in contact if there are any campaign developments we think you should be aware of.</p>
 		<input id="phone" type="tel" name="member[phone_number]" placeholder="Phone Number" title="Phone">
+		<p>Adding your number is optional, but will allow us to get in contact if there are any campaign developments we think you should be aware of.</p>
 	</div>
 
 	<div>

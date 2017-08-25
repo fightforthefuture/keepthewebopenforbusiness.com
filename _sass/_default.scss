@@ -28,7 +28,7 @@ h1 {
 
 h2 {
 	font-size: 40px;
-	padding: 40px 0 30px 0;
+	padding-top: 40px;
 }
 
 strong {
@@ -70,7 +70,7 @@ dl:first-child {
 	border-top: 5px solid #582ca9;
 	background: url(images/background2.png) center top no-repeat;
 	.button {
-		margin: 50px auto 0;
+		margin: 80px auto 0;
 		height: 65px;
 		line-height: 65px;
 		max-width: 450px;
@@ -262,7 +262,7 @@ form {
 	p {
 		color: #ddd;
 		font-size: 12px;
-		margin-bottom: 7px;
+        margin: 10px 0;
 	}
 	input {
 		width: 100%;
@@ -283,6 +283,7 @@ form {
 }
 #petition-form {
 	min-height: 510px;
+    margin-top: 30px;
 	position: relative;
 	.message {
 		text-align: center;

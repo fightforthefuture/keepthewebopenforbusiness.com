@@ -19,7 +19,7 @@ layout: default
 > 
 > Now, will you take the next step and share this campaign to maximize your impact? Share now with just a couple of clicks:
 > 
-><img src="/images/facebook-share.png><img src="/images/twitter-share.png>
+><img src="/images/facebook-share.png"><img src="/images/twitter-share.png">
 >
 > *And please forward this open letter to any small or medium-sized businesses that might be interested in signing on before COB on August 29th.*
 > 

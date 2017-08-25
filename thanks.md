@@ -21,6 +21,7 @@ layout: default
 > 
 ><center><a href="https://www.facebook.com/sharer.php?u=http://www.keepthewebopenforbusiness.com/"><img src="/images/facebook-share.png"></a><a href="https://twitter.com/intent/tweet?related=fightfortheftr&text=Small+businesses+are+speaking+out+for+%23NetNeutrality.+Add+your+company+to+the+open+letter+before+COB+Aug+29th%3A+http%3A%2F%2Fwww.keepthewebopenforbusiness.com&oq=Small+businesses+are+speaking+out+for+%23NetNeutrality.+Add+your+company+to+the+open+letter+before+COB+Aug+29th%3A+http%3A%2F%2Fwww.keepthewebopenforbusiness.com"><img src="/images/twitter-share.png"></a></center>
 >
+>
 > *And please forward this open letter to any small or medium-sized businesses that might be interested in signing on before COB on August 29th.*
 > 
 > *Email or text the URL “KeepTheWebOpenForBusiness.com” to everyone you know in the business community.*

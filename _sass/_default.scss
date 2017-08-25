@@ -251,7 +251,7 @@ hr {
 form {
 	text-align: left;
 	div {
-		max-width: 400px;
+		max-width: 420px;
 		margin: 0px auto 10px;
 	}
 	label {
@@ -267,7 +267,7 @@ form {
 	input {
 		width: 100%;
 		display: block;
-		padding: 5px;
+		padding: 5px 10px;
 		border-radius: 3px;
 		border: none;
 		height: 40px;
@@ -279,7 +279,6 @@ form {
 		margin: 20px auto 0;
 		height: 40px;
 		line-height: 40px;
-		max-width: 400px;
 	}
 }
 #petition-form {

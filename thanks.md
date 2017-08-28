@@ -15,7 +15,7 @@ layout: default
 
 <div class="letter-content">
 
-> Thank you for signing on the to the open letter. We will keep in touch as the campaign develops.
+> Thank you for signing on the to the open letter. We will work to get your name added before it is sent to decision-makers.
 > 
 > Now, will you take the next step and share this campaign to maximize your impact? Share now with just a couple of clicks:
 > 
@@ -26,8 +26,9 @@ layout: default
 > 
 > *Email or text the URL “KeepTheWebOpenForBusiness.com” to everyone you know in the business community.*
 > 
-> If we can show FCC Chairman Ajit Pai that the business community is deeply concerned about the loss of net neutrality, we can win. But this only works if you help spread the word.
-> This is one of the best opportunities since the historic July 12th day of action to speak up for net neutrality. The letter will help send a clear message to the FCC and members of Congress that the business community cannot afford to lose these common sense protections, and put us in the strongest possible position to protect the open Internet going forward.
+> If the business community can show FCC Chairman Ajit Pai that they are deeply concerned about the loss of net neutrality, we can win. But this only works if you help spread the word.
+>
+> This is one of the best opportunities since the historic July 12th day of action to speak up for net neutrality. The letter will help send a clear message to the FCC and members of Congress that small businesses cannot afford to lose these common sense protections, and put us in the strongest possible position to protect the open Internet going forward.
 > 
 > Thanks
 

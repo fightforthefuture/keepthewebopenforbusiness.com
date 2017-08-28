@@ -147,6 +147,9 @@ See over 150 more
 		<input id="phone" type="tel" name="member[phone_number]" placeholder="Phone Number" title="Phone">
 		<p>Adding your number is optional, but will allow us to get in contact if there are any campaign developments we think you should be aware of.</p>
 	</div>
+    <div>
+        <textarea name="action_comment" title="Additional Comments" placeholder="Additional Comments"></textarea>
+    </div>
 
 	<div>
 		<button class="button">Sign On</button>

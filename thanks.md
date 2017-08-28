@@ -7,7 +7,7 @@ layout: default
 
 <div class="section thanks">
 
-# Thanks for your support.
+# Thanks for your signing on.
 
 </div>
 
@@ -29,7 +29,5 @@ layout: default
 > If the business community can show FCC Chairman Ajit Pai that they are deeply concerned about the loss of net neutrality, we can win. But this only works if you help spread the word.
 >
 > This is one of the best opportunities since the historic July 12th day of action to speak up for net neutrality. The letter will help send a clear message to the FCC and members of Congress that small businesses cannot afford to lose these common sense protections, and put us in the strongest possible position to protect the open Internet going forward.
-> 
-> Thanks
 
 </div>

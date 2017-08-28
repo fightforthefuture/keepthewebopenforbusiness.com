@@ -148,7 +148,8 @@ See over 150 more
 		<p>Adding your number is optional, but will allow us to get in contact if there are any campaign developments we think you should be aware of.</p>
 	</div>
     <div>
-        <textarea name="action_comment" title="Additional Comments" placeholder="Additional Comments"></textarea>
+        <textarea name="action_comment" title="Comments (optional)" placeholder="Comments (optional)"></textarea>
+		<p>Tell decision-makers why net neutrality matters to your business.</p>
     </div>
 
 	<div>
@@ -174,9 +175,10 @@ See over 150 more
 </div>
 {::options parse_block_html="true" /}
 
+## Read the Letter
 
 <div class="letter-content">
-	
+
 > Dear FCC Chairman Ajit Pai and Members of Congress,
 >  
 > We are a group of small and medium sized businesses empowered by unencumbered

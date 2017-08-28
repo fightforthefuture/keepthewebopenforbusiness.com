@@ -14,7 +14,7 @@ layout: default
 * [Sign On](#signon)
 {: class="hide" }
 
-<a href="#letter-content" class="button">Read The Letter</a>
+<a href="#letter" class="button">Read The Letter</a>
 
 </div>
 

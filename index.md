@@ -14,7 +14,7 @@ layout: default
 * [Sign On](#signon)
 {: class="hide" }
 
-<a href="#letter" class="button">Join them below</a>
+<a href="#letter" class="button">Read The Letter</a>
 
 </div>
 
@@ -115,7 +115,7 @@ See over 150 more
 
 <div class="section letter">
 
-## The Letter
+## Sign the Letter
 {: #letter }
 
 ### Deadline for sign on is COB Aug. 29th
@@ -174,7 +174,8 @@ See over 150 more
 
 <div class="letter-content">
 
-
+#Read The Letter
+	
 > Dear FCC Chairman Ajit Pai and Members of Congress,
 >  
 > We are a group of small and medium sized businesses empowered by unencumbered

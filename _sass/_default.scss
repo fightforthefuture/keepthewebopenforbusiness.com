@@ -267,14 +267,13 @@ form {
 	input, textarea {
 		width: 100%;
 		display: block;
-		padding: 5px 10px;
+		padding: 10px;
 		border-radius: 3px;
 		border: none;
-		line-height: 40px;
 		font-size: 16px;
 	}
-	input {
-        height: 40px;
+	textarea {
+        min-height: 100px;
     }
 	.button {
         max-width: 100%;

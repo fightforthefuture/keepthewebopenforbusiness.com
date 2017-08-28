@@ -176,8 +176,6 @@ See over 150 more
 
 
 <div class="letter-content">
-
-#Read The Letter
 	
 > Dear FCC Chairman Ajit Pai and Members of Congress,
 >  

@@ -32,514 +32,514 @@ layout: default
 
 <div id="businesses-list">
 
-*2b1 Inc.
-*3 Nimbus LLC
-*a-ka-neArt
-*Absolute Voiceover
-*Advanced Surfaces and Processes Inc.
-*Agency Nunez, Inc
-*Agent 144 Sales
-*AirborneSurfer Productions
-*Anthony DiRoma's Natural Motion Salon
-*Anthonys ArtElectrix
-*Apaches From Paris Music
-*Arcway Industries, LLC
-*Arias machine inc.
-*ArrivaDolce
-*Astro Zombies
-*Athena Mayeux, Graphic Design
-*Audio Video Integration
-*AugustSings
-*Aurora Broadcasting
-*Bagel Radio
-*Barcelona Sporting Goods
-*baum•hauer photo
-*Bay Buys, LLC
-*BDB Creative
-*BDB Enterprises, VLLC
-*Bead & Reel
-*Beanfields PBC
-*Bearded Frida
-*BEH Computer Specialties
-*Better Speech Now, LLC
-*Bitter Jester Studios
-*Bitwise Consulting, LLC
-*Black Hills Computer Consulting, Inc.
-*Blog222/Reg222.net
-*BlowFish SEO
-*Blue Egg Adventures
-*Body by Kelli LLC
-*Boortz PR Communications
-*Boston Building Resources
-*Bothand Consulting, LLC
-*Brand Strong Marketing
-*Brendshann Construction Co, Inc.
-*Bridge Financial Technology Inc.
-*Bublitz & Koch Construction
-*Burlington Telecom
-*Buttontapper Press
-*By The Way Labs, LLC
-*C. Wolfe Software Engeering
-*Cagno Solutions
-*Capitol Pacific Reporting
-*Caramagno and Associates, Ltd
-*Cari Wright HHP
-*Carla Edmiston Massage Therapy
-*CDN.net
-*Celestial Buttons
-*Centennial Vapor
-*Central Chapel Funeral Home
-*Chagrin Valley Soap & Salve
-*Chocolate Pocket, LLC
-*Circulation Studio
-*Civic Hall
-*CJBS, LLC
-*Clarion Group Live, Inc.
-*Clayton Cowles Illustration & Lettering
-*Clean air illinois
-*Clearview Furniture
-*Cloudly
-*CoachAccountable, LLC
-*Coaching Financial
-*Codecademy
-*Coherence Collaborative
-*Coler Insulation
-*Collaborative Design & Planning
-*Colonial Life
-*Common Source Acupuncture
-*Communitas Financial Planning
-*Complete Spectrum Financial Services
-*Connectify Inc
-*Conservation Economics
-*Continuum Industries, Inc
-*Cooperstown Cheese Company
-*Copia Institute
-*Copper Note
-*Cornelius Consulting Services
-*Cox-Mills Ranch
-*CPD Solutions
-*CPUgrades
-*CREATION AUDIO
-*Crowd Supply
-*Crowmark Creations
-*Crush Wine Distributors
-*Curiosity IO
-*Custom 509 LLC
-*Cx Associates, LLC
-*D/R Services Unlimited, Inc.
-*D&T Onsite Computer & Network consulting
-*DAC Audit Services, LLC.
-*Damn Interesting
-*Daniel R Hamm PC
-*Dave Ferguson, Independent Insurance Agent
-*David Cowles Illustration
-*Day to Day Fresh Frozen Foods, LLC
-*DC Action Lab
-*DCC, Inc
-*Dean Lumber Products
-*Del Norte Medical Imaging
-*Destiny Speaks
-*DetritusGroup
-*devorahssong
-*Diagnostic Medical Imaging
-*DigitalOcean
-*Ding-it.net
-*Disability is Natural
-*Distance Learning Consulting
-*DK Support Services LLC
-*DL Environmental Services 
-*Dobson Computer Services
-*DoTerra Wellness Consultant
-*DPOE
-*Dr. Alison Guzman, MD
-*Dr. Lea Morgan, MD
-*Dread Central Media LLC
-*Dream Cakes, Inc.
-*DreamHost
-*dsherman.design
-*Dwyer & Coogan, P.C.
-*E K & Associates
-*E. R. West & Associates, Inc.
-*Eagleflight Enterprises
-*Ecco Bella
-*eCnet Solutions
-*EcO Design Homes LLC
-*EdTech Strategies, LLC
-*Eighty2degrees LLC
-*Encyclia LLC
-*EnderSwift LLC
-*Endosys, LLC
-*Energy Compression Inc.
-*Engineered Fear LLC
-*Entertainment Under The Stars, LLC
-*Eric A. Wessman, Photographer, LLC
-*ESSDACK
-*ET Productions
-*Ethical Markets Media
-*Euphonic Studio LLC
-*Evergreen Sustainability, LLC
-*EvoText Inc.
-*Fabrinique
-*Falconia Partners LLC
-*FDA Consulting, LLC
-*Fiedler on the Roof Construction
-*Figure 8 Investment Strategies
-*Financial Alternatives
-*FINE
-*First Search, Inc.
-*Fitzpatrick & Associates
-*Flat Out Motorsports
-*Foxy pet photos
-*Frame x Frame Productions
-*Fulcrum HR Consulting
-*Fuzzco
-*Garrin Evan Studios
-*GCI Flooring
-*Global Capital Funding Group, LLC
-*gms tactical
-*Gnosis Media Group
-*Golan Christie Taglia LLP
-*Golden Frog
-*Goldman & Ehrlich
-*GoodLight Natural Candles
-*Gourd & Associates
-*Graphik Dimensions
-*Great Northern Landholding and Mining Company, Inc.
-*Great Scott Technology, LLC
-*Hacktron Technology Inc.
-*HarborWest Design
-*HardPressedRecords
-*Harmony Acupuncture, LLC
-*Harmony Grows, Infinity Tree Tarot
-*Hayes Support
-*Healing Connections
-*Hearing Wellness Centers
-*Heartfocus Counseling
-*heaton & company, pc
-*Hels Kitchen Catering 
-*Hempy's
-*HF Ranch
-*High Flight Arts and Letters
-*Highland Park Chamber of Commerce
-*Hladky Real Property, LLC
-*Holly Kukkonen's Piano Studio
-*HowCreativeSolutions.com
-*Humblebee Media 
-*Hutch Heating & Cooling Inc.
-*iFixit
-*Image Architects
-*Imgur, Inc. 
-*In-telligent LLC
-*Incom Technologies
-*InfoprosNetwork
-*Inner Illumination
-*Inner Renewal and the Healthy Path
-*Innovative Awareness LLC
-*Instant Ocean
-*Inter-Hemisphere Tours
-*Investors Team Realty Inc.
-*Iris b. Branding & communications
-*Irving House Corporation
-*Item Crafting
-*ITEX in Chicagoland
-*itpwebdesign
-*Ivan Edits
-*Iyengar Yoga Center of Grand Rapids
-*J Krug & Associates
-*J.F.S. Production Co., Inc.
-*Jan Niemira Psychotherapy
-*Jane Thomas Press
-*Janell McCanna Design
-*JB Wood Group LLC
-*JerrixIT
-*jewelry by NaLa
-*JL Gray Company
-*John F. Kindergan, Inc.
-*John Fister Music
-*Joseph Loduca, DDS - General Dentistry
-*Juggin Visuals
-*JuniorExplorerClub
-*Just Consider It Done
-*Just Goods
-*Just in Time Direction
-*K Tech LLC
-*Kaizen Conlsulting
-*Kappel & Apple
-*Karen Bevels Custom Catering & Events
-*Karen Peterson Design
-*Keep It Simple Books
-*Kenneth A.. Henry, Attorney at Law
-*Keyrenter Property Management Chicago North
-*KJM Consultancy
-*L.W. Griffins Supply LLC
-*Langelan & Associates
-*Lanis Fabric Arts
-*Laseronix Lasers
-*Laura Roberts Creative Services
-*Laurel Digital, LLC
-*Law Office of Marc N. Blumenthal
-*Law Offices of Frank J Prochilo
-*Law Offices of Richard A.Crane
-*LDW Group
-*Leadership & Strategy for Sustainable Systems
-*Lee Ranch
-*Lett Direct, Inc.
-*Lifestyler Music
-*Light and Sound Media LLC
-*Light Sound Dimension
-*Liquid Mastering
-*Littleplow LLC
-*LJ Hughes Associates
-*Logos World Inc
-*Long Pond Cabins
-*LTCI Partners, LLC
-*Luola
-*Lynch Music, Inc
-*Madrona Motor Court
-*Main Royal Design
-*ManageYourLaserPrinters.com
-*Marazul Publishing
-*Marcacci Labs, Inc
-*Marcia McKinzie Art
-*Marin Sunshine Realty
-*Mark T. O'Brien, D. O.,P.C.
-*Mark Wyner LLC
-*Marks & Klein
-*Marlene Puaoi, CSR
-*Massage Planet RMT
-*Matthew Meier Photography
-*Mays Civic Innovation, LLC
-*McGovern & Greene LLP
-*McLeodGaming Inc.
-*MCM Inventions, Inc.
-*MDE Communications
-*MDI Imported Car Service, Inc.
-*MediaIgniter
-*Merchant Services Group LLC
-*MetalSucks.net
-*Metamuse Media
-*Miami Solutions
-*Michaels Conusulting, Ltd.
-*Michigan Healthy Living and Sustainability, Inc.
-*Midwest Young Artists Conservatory
-*Mirador Kitchen & Home
-*Misk.com
-*Mission Communications
-*Mixtape Comics
-*mobilia, inc.
-*Modern Trade Productions, LLC
-*MOH Design, LLC
-*Moosewood Restaurant
-*Moraine Valley Chiropractic Center
-*Moss Veterinary Referrals, PLLC
-*MousePaw Media
-*Move Ahead
-*Move Beyond Limits
-*Mow Town Country Services
-*Multilingual Connections
-*Mysterious Galaxy
-*Needleman Property Management
-*Net Informant, Inc.
-*Netcetera, Inc.
-*New Day Network Wellness Center
-*New Games Ltd.
-*New Sky Strategies, Inc.
-*Nextdoor
-*Nikki Sachs, LCSW
-*NodeCraft Hosting LLC
-*nogosauces.com.au
-*NorTech
-*North Coast Radiology
-*NY Tech Alliance
-*O'BRIEN Family Realty
-*Oaktown Jerk
-*Ocean Motion Media, LLC
-*OHG Networks LLC
-*Ohrvall Media LLC
-*Olio City, Inc.
-*One Handed VIP, LLC
-*One Inch Heroes
-*Only Connect...Publications
-*Opal Capital, Inc
-*Originate Natural Building Materials
-*Otherwild
-*Owens Business & Consulting, LLC
-*P1WS
-*Paladin Contemporaries
-*Panelist Media
-*Pearce Construction Company
-*Perry Harris Plumbing and Heating
-*Personal Beast Inc.
-*Pete Miller's Water and Wildlife Studio
-*Photobot 3000
-*Physical Therapy Advantage
-*Pipe Organs/Golden Ponds Farm
-*Plain City Druggist
-*Planet K
-*PMP inc
-*Point of View Productions
-*Pony Named Bill Tack Shop
-*Poster It
-*Premier Computer Consulting, LLC.
-*Prism Corporation
-*Private Internet Access
-*Pro PDR, llc
-*Pucks and Recreation
-*QuipTracks LLC
-*R We Still On Time? 
-*Radix Media
-*RARE Garments
-*Ravinia Plumbing and Heating, Inc.
-*Read Andra Watkins LLC
-*RecycleMatch
-*Renaissance Miniatures
-*Rentorations Limited
-*Research Associates
-*Rhino Digital
-*Ridgeline Wealth Advisors
-*Ringspann Corp.
-*Ritz Sales & Service
-*Roaring Tiger
-*Robb Reece Photography
-*Ross Cottage
-*Rowan Everard LLC
-*Rune's Furniture Co.
-*S. Keith Collins, Attorney at Law
-*sabao
-*Sacred Flows
-*Sacred Portals Art
-*San Juan Update
-*sanctuary hill farms
-*Sandkamp Woodworks LLC
-*Sarah B Stewart, Psy.D., PLLC
-*Schulte Group
-*ScientiaCME, LLC
-*Scott Law Firm
-*SCT Alternative Inc.
-*Second Opinion Solutions
-*Senior Transitions Concierge
-*Share The Wealth Productions
-*Sharpr
-*Sheridan Road Financial
-*Sherrie Marchi Coaching Ind
-*Shifting Patterns Consulting
-*Sierra Unix Consulting LLC
-*Silver Lining Unlimited
-*Simply Made Apps
-*Simply Stated Architecture, PC
-*SingerSCPM.com
-*Single, LLC
-*Singlebrook
-*SingleHop
-*SkySpecs
-*SLPPOA
-*Small Business Advocacy Council
-*SMB Logic
-*Smith, Rolfes & Skavdahl Company, L.P.A.
-*Snowbound Books
-*Snyder Electronics
-*Soap Alchemy LLC
-*SoloProWebs
-*Sounding Stone
-*Space Inch
-*Spark PC
-*Spike Maiden Mueller, Composer/Arranger
-*Spirit Filled Press
-*Spiritbody Inc
-*Spirituality & Practice
-*Sponge Studio
-*spring gulch farm
-*Staach
-*Starbelly Studios Inc
-*Starvault LLC
-*Steadfast
-*StreamText.Net, Inc.
-*Sue Kauffman Fitness
-*Sunflower
-*Sunridge LLC
-*Super Grow Lasers
-*Superluminal Systems
-*Susquehanna Glass Co.
-*Sustainable Hosting
-*Sustana
-*Suzanne Cerny Fine Art, Illustration, Digital Art
-*Sympatico Clothing
-*Taos Green Chamber of Commerce
-*Tarheelstate Teacher LLC
-*Team Merchant
-*Tel-Affinity Corp.
-*Texas Beard Company
-*The Confection Connection
-*The Dini Group, Ltd
-*The Farthest Pixel
-*The Gift Street Ltd.
-*The Hollow Oak
-*The Jewelry Vault
-*The Law Offices of Tom Olofsson, LLC
-*The Movitz Group
-*The Patrick Group Inc
-*The Public Society
-*The Regulator Online
-*The Silk Route Antiques
-*The Sound Guy, Inc.
-*The Stationery Station. Ltd
-*The Thrifty Wildflower
-*The Wilderness Inn, LLC
-*The WinterBadger Collection
-*Therapeutic Kneads, Ltd.
-*they&them
-*Thinkshift Communications
-*Third Coast Complexity
-*Thirdarm Promotions
-*Three Treasures Acupuncture
-*Thunder Puppy Art
-*Thuzio 
-*Tierra de Mar Music
-*Timber Ridge Construction
-*Ting 
-*Tiny Design Studio
-*Trade Inflo
-*Transition Services, Inc.
-*TRC Tech
-*Trees Cut Stars Design Studio
-*TriLibrium
-*Triple Ethos, LLC
-*True North Creative Learning Center
-*True Self Coaching, LLC
-*Tye Newton Design
-*Underflow Studios
-*United Business Association of Midway
-*Unlimited Diamond Works, LLC
-*Unlimited Media
-*Urban Iguana Productions
-*Ventamatic LTD
-*Venture Boxes, LLC
-*Vidme
-*Vintage Connections
-*Virginia Kondziolka, Graphic Design
-*vmrproducts llc
-*VoidTracks
-*WakaTime
-*Wallin Mental Medical
-*Wanderu Inc
-*WebConference.com
-*Well Spent
-*WellBeing: Therapeutic Massage
-*Westy92 LLC
-*What A Great Website
-*Whatsits Galore
-*Whole Health
-*Wilke Systems International, Inc
-*World Business Academy
-*WritAnon
-*WTKoch GCP QA Consulting, LLC
-*www.shandormusic.com
-*www.tincan.social
-*X-Lab
-*Xyzzy Kosmic Canonical Distribution LLC
-*Yankee Bookshop
-*Z-Marketing
-*Zocalo Productions
+* 2b1 Inc.
+* 3 Nimbus LLC
+* a-ka-neArt
+* Absolute Voiceover
+* Advanced Surfaces and Processes Inc.
+* Agency Nunez, Inc
+* Agent 144 Sales
+* AirborneSurfer Productions
+* Anthony DiRoma's Natural Motion Salon
+* Anthonys ArtElectrix
+* Apaches From Paris Music
+* Arcway Industries, LLC
+* Arias machine inc.
+* ArrivaDolce
+* Astro Zombies
+* Athena Mayeux, Graphic Design
+* Audio Video Integration
+* AugustSings
+* Aurora Broadcasting
+* Bagel Radio
+* Barcelona Sporting Goods
+* baum•hauer photo
+* Bay Buys, LLC
+* BDB Creative
+* BDB Enterprises, VLLC
+* Bead & Reel
+* Beanfields PBC
+* Bearded Frida
+* BEH Computer Specialties
+* Better Speech Now, LLC
+* Bitter Jester Studios
+* Bitwise Consulting, LLC
+* Black Hills Computer Consulting, Inc.
+* Blog222/Reg222.net
+* BlowFish SEO
+* Blue Egg Adventures
+* Body by Kelli LLC
+* Boortz PR Communications
+* Boston Building Resources
+* Bothand Consulting, LLC
+* Brand Strong Marketing
+* Brendshann Construction Co, Inc.
+* Bridge Financial Technology Inc.
+* Bublitz & Koch Construction
+* Burlington Telecom
+* Buttontapper Press
+* By The Way Labs, LLC
+* C. Wolfe Software Engeering
+* Cagno Solutions
+* Capitol Pacific Reporting
+* Caramagno and Associates, Ltd
+* Cari Wright HHP
+* Carla Edmiston Massage Therapy
+* CDN.net
+* Celestial Buttons
+* Centennial Vapor
+* Central Chapel Funeral Home
+* Chagrin Valley Soap & Salve
+* Chocolate Pocket, LLC
+* Circulation Studio
+* Civic Hall
+* CJBS, LLC
+* Clarion Group Live, Inc.
+* Clayton Cowles Illustration & Lettering
+* Clean air illinois
+* Clearview Furniture
+* Cloudly
+* CoachAccountable, LLC
+* Coaching Financial
+* Codecademy
+* Coherence Collaborative
+* Coler Insulation
+* Collaborative Design & Planning
+* Colonial Life
+* Common Source Acupuncture
+* Communitas Financial Planning
+* Complete Spectrum Financial Services
+* Connectify Inc
+* Conservation Economics
+* Continuum Industries, Inc
+* Cooperstown Cheese Company
+* Copia Institute
+* Copper Note
+* Cornelius Consulting Services
+* Cox-Mills Ranch
+* CPD Solutions
+* CPUgrades
+* CREATION AUDIO
+* Crowd Supply
+* Crowmark Creations
+* Crush Wine Distributors
+* Curiosity IO
+* Custom 509 LLC
+* Cx Associates, LLC
+* D/R Services Unlimited, Inc.
+* D&T Onsite Computer & Network consulting
+* DAC Audit Services, LLC.
+* Damn Interesting
+* Daniel R Hamm PC
+* Dave Ferguson, Independent Insurance Agent
+* David Cowles Illustration
+* Day to Day Fresh Frozen Foods, LLC
+* DC Action Lab
+* DCC, Inc
+* Dean Lumber Products
+* Del Norte Medical Imaging
+* Destiny Speaks
+* DetritusGroup
+* devorahssong
+* Diagnostic Medical Imaging
+* DigitalOcean
+* Ding-it.net
+* Disability is Natural
+* Distance Learning Consulting
+* DK Support Services LLC
+* DL Environmental Services 
+* Dobson Computer Services
+* DoTerra Wellness Consultant
+* DPOE
+* Dr. Alison Guzman, MD
+* Dr. Lea Morgan, MD
+* Dread Central Media LLC
+* Dream Cakes, Inc.
+* DreamHost
+* dsherman.design
+* Dwyer & Coogan, P.C.
+* E K & Associates
+* E. R. West & Associates, Inc.
+* Eagleflight Enterprises
+* Ecco Bella
+* eCnet Solutions
+* EcO Design Homes LLC
+* EdTech Strategies, LLC
+* Eighty2degrees LLC
+* Encyclia LLC
+* EnderSwift LLC
+* Endosys, LLC
+* Energy Compression Inc.
+* Engineered Fear LLC
+* Entertainment Under The Stars, LLC
+* Eric A. Wessman, Photographer, LLC
+* ESSDACK
+* ET Productions
+* Ethical Markets Media
+* Euphonic Studio LLC
+* Evergreen Sustainability, LLC
+* EvoText Inc.
+* Fabrinique
+* Falconia Partners LLC
+* FDA Consulting, LLC
+* Fiedler on the Roof Construction
+* Figure 8 Investment Strategies
+* Financial Alternatives
+* FINE
+* First Search, Inc.
+* Fitzpatrick & Associates
+* Flat Out Motorsports
+* Foxy pet photos
+* Frame x Frame Productions
+* Fulcrum HR Consulting
+* Fuzzco
+* Garrin Evan Studios
+* GCI Flooring
+* Global Capital Funding Group, LLC
+* gms tactical
+* Gnosis Media Group
+* Golan Christie Taglia LLP
+* Golden Frog
+* Goldman & Ehrlich
+* GoodLight Natural Candles
+* Gourd & Associates
+* Graphik Dimensions
+* Great Northern Landholding and Mining Company, Inc.
+* Great Scott Technology, LLC
+* Hacktron Technology Inc.
+* HarborWest Design
+* HardPressedRecords
+* Harmony Acupuncture, LLC
+* Harmony Grows, Infinity Tree Tarot
+* Hayes Support
+* Healing Connections
+* Hearing Wellness Centers
+* Heartfocus Counseling
+* heaton & company, pc
+* Hels Kitchen Catering 
+* Hempy's
+* HF Ranch
+* High Flight Arts and Letters
+* Highland Park Chamber of Commerce
+* Hladky Real Property, LLC
+* Holly Kukkonen's Piano Studio
+* HowCreativeSolutions.com
+* Humblebee Media 
+* Hutch Heating & Cooling Inc.
+* iFixit
+* Image Architects
+* Imgur, Inc. 
+* In-telligent LLC
+* Incom Technologies
+* InfoprosNetwork
+* Inner Illumination
+* Inner Renewal and the Healthy Path
+* Innovative Awareness LLC
+* Instant Ocean
+* Inter-Hemisphere Tours
+* Investors Team Realty Inc.
+* Iris b. Branding & communications
+* Irving House Corporation
+* Item Crafting
+* ITEX in Chicagoland
+* itpwebdesign
+* Ivan Edits
+* Iyengar Yoga Center of Grand Rapids
+* J Krug & Associates
+* J.F.S. Production Co., Inc.
+* Jan Niemira Psychotherapy
+* Jane Thomas Press
+* Janell McCanna Design
+* JB Wood Group LLC
+* JerrixIT
+* jewelry by NaLa
+* JL Gray Company
+* John F. Kindergan, Inc.
+* John Fister Music
+* Joseph Loduca, DDS - General Dentistry
+* Juggin Visuals
+* JuniorExplorerClub
+* Just Consider It Done
+* Just Goods
+* Just in Time Direction
+* K Tech LLC
+* Kaizen Conlsulting
+* Kappel & Apple
+* Karen Bevels Custom Catering & Events
+* Karen Peterson Design
+* Keep It Simple Books
+* Kenneth A.. Henry, Attorney at Law
+* Keyrenter Property Management Chicago North
+* KJM Consultancy
+* L.W. Griffins Supply LLC
+* Langelan & Associates
+* Lanis Fabric Arts
+* Laseronix Lasers
+* Laura Roberts Creative Services
+* Laurel Digital, LLC
+* Law Office of Marc N. Blumenthal
+* Law Offices of Frank J Prochilo
+* Law Offices of Richard A.Crane
+* LDW Group
+* Leadership & Strategy for Sustainable Systems
+* Lee Ranch
+* Lett Direct, Inc.
+* Lifestyler Music
+* Light and Sound Media LLC
+* Light Sound Dimension
+* Liquid Mastering
+* Littleplow LLC
+* LJ Hughes Associates
+* Logos World Inc
+* Long Pond Cabins
+* LTCI Partners, LLC
+* Luola
+* Lynch Music, Inc
+* Madrona Motor Court
+* Main Royal Design
+* ManageYourLaserPrinters.com
+* Marazul Publishing
+* Marcacci Labs, Inc
+* Marcia McKinzie Art
+* Marin Sunshine Realty
+* Mark T. O'Brien, D. O.,P.C.
+* Mark Wyner LLC
+* Marks & Klein
+* Marlene Puaoi, CSR
+* Massage Planet RMT
+* Matthew Meier Photography
+* Mays Civic Innovation, LLC
+* McGovern & Greene LLP
+* McLeodGaming Inc.
+* MCM Inventions, Inc.
+* MDE Communications
+* MDI Imported Car Service, Inc.
+* MediaIgniter
+* Merchant Services Group LLC
+* MetalSucks.net
+* Metamuse Media
+* Miami Solutions
+* Michaels Conusulting, Ltd.
+* Michigan Healthy Living and Sustainability, Inc.
+* Midwest Young Artists Conservatory
+* Mirador Kitchen & Home
+* Misk.com
+* Mission Communications
+* Mixtape Comics
+* mobilia, inc.
+* Modern Trade Productions, LLC
+* MOH Design, LLC
+* Moosewood Restaurant
+* Moraine Valley Chiropractic Center
+* Moss Veterinary Referrals, PLLC
+* MousePaw Media
+* Move Ahead
+* Move Beyond Limits
+* Mow Town Country Services
+* Multilingual Connections
+* Mysterious Galaxy
+* Needleman Property Management
+* Net Informant, Inc.
+* Netcetera, Inc.
+* New Day Network Wellness Center
+* New Games Ltd.
+* New Sky Strategies, Inc.
+* Nextdoor
+* Nikki Sachs, LCSW
+* NodeCraft Hosting LLC
+* nogosauces.com.au
+* NorTech
+* North Coast Radiology
+* NY Tech Alliance
+* O'BRIEN Family Realty
+* Oaktown Jerk
+* Ocean Motion Media, LLC
+* OHG Networks LLC
+* Ohrvall Media LLC
+* Olio City, Inc.
+* One Handed VIP, LLC
+* One Inch Heroes
+* Only Connect...Publications
+* Opal Capital, Inc
+* Originate Natural Building Materials
+* Otherwild
+* Owens Business & Consulting, LLC
+* P1WS
+* Paladin Contemporaries
+* Panelist Media
+* Pearce Construction Company
+* Perry Harris Plumbing and Heating
+* Personal Beast Inc.
+* Pete Miller's Water and Wildlife Studio
+* Photobot 3000
+* Physical Therapy Advantage
+* Pipe Organs/Golden Ponds Farm
+* Plain City Druggist
+* Planet K
+* PMP inc
+* Point of View Productions
+* Pony Named Bill Tack Shop
+* Poster It
+* Premier Computer Consulting, LLC.
+* Prism Corporation
+* Private Internet Access
+* Pro PDR, llc
+* Pucks and Recreation
+* QuipTracks LLC
+* R We Still On Time? 
+* Radix Media
+* RARE Garments
+* Ravinia Plumbing and Heating, Inc.
+* Read Andra Watkins LLC
+* RecycleMatch
+* Renaissance Miniatures
+* Rentorations Limited
+* Research Associates
+* Rhino Digital
+* Ridgeline Wealth Advisors
+* Ringspann Corp.
+* Ritz Sales & Service
+* Roaring Tiger
+* Robb Reece Photography
+* Ross Cottage
+* Rowan Everard LLC
+* Rune's Furniture Co.
+* S. Keith Collins, Attorney at Law
+* sabao
+* Sacred Flows
+* Sacred Portals Art
+* San Juan Update
+* sanctuary hill farms
+* Sandkamp Woodworks LLC
+* Sarah B Stewart, Psy.D., PLLC
+* Schulte Group
+* ScientiaCME, LLC
+* Scott Law Firm
+* SCT Alternative Inc.
+* Second Opinion Solutions
+* Senior Transitions Concierge
+* Share The Wealth Productions
+* Sharpr
+* Sheridan Road Financial
+* Sherrie Marchi Coaching Ind
+* Shifting Patterns Consulting
+* Sierra Unix Consulting LLC
+* Silver Lining Unlimited
+* Simply Made Apps
+* Simply Stated Architecture, PC
+* SingerSCPM.com
+* Single, LLC
+* Singlebrook
+* SingleHop
+* SkySpecs
+* SLPPOA
+* Small Business Advocacy Council
+* SMB Logic
+* Smith, Rolfes & Skavdahl Company, L.P.A.
+* Snowbound Books
+* Snyder Electronics
+* Soap Alchemy LLC
+* SoloProWebs
+* Sounding Stone
+* Space Inch
+* Spark PC
+* Spike Maiden Mueller, Composer/Arranger
+* Spirit Filled Press
+* Spiritbody Inc
+* Spirituality & Practice
+* Sponge Studio
+* spring gulch farm
+* Staach
+* Starbelly Studios Inc
+* Starvault LLC
+* Steadfast
+* StreamText.Net, Inc.
+* Sue Kauffman Fitness
+* Sunflower
+* Sunridge LLC
+* Super Grow Lasers
+* Superluminal Systems
+* Susquehanna Glass Co.
+* Sustainable Hosting
+* Sustana
+* Suzanne Cerny Fine Art, Illustration, Digital Art
+* Sympatico Clothing
+* Taos Green Chamber of Commerce
+* Tarheelstate Teacher LLC
+* Team Merchant
+* Tel-Affinity Corp.
+* Texas Beard Company
+* The Confection Connection
+* The Dini Group, Ltd
+* The Farthest Pixel
+* The Gift Street Ltd.
+* The Hollow Oak
+* The Jewelry Vault
+* The Law Offices of Tom Olofsson, LLC
+* The Movitz Group
+* The Patrick Group Inc
+* The Public Society
+* The Regulator Online
+* The Silk Route Antiques
+* The Sound Guy, Inc.
+* The Stationery Station. Ltd
+* The Thrifty Wildflower
+* The Wilderness Inn, LLC
+* The WinterBadger Collection
+* Therapeutic Kneads, Ltd.
+* they&them
+* Thinkshift Communications
+* Third Coast Complexity
+* Thirdarm Promotions
+* Three Treasures Acupuncture
+* Thunder Puppy Art
+* Thuzio 
+* Tierra de Mar Music
+* Timber Ridge Construction
+* Ting 
+* Tiny Design Studio
+* Trade Inflo
+* Transition Services, Inc.
+* TRC Tech
+* Trees Cut Stars Design Studio
+* TriLibrium
+* Triple Ethos, LLC
+* True North Creative Learning Center
+* True Self Coaching, LLC
+* Tye Newton Design
+* Underflow Studios
+* United Business Association of Midway
+* Unlimited Diamond Works, LLC
+* Unlimited Media
+* Urban Iguana Productions
+* Ventamatic LTD
+* Venture Boxes, LLC
+* Vidme
+* Vintage Connections
+* Virginia Kondziolka, Graphic Design
+* vmrproducts llc
+* VoidTracks
+* WakaTime
+* Wallin Mental Medical
+* Wanderu Inc
+* WebConference.com
+* Well Spent
+* WellBeing: Therapeutic Massage
+* Westy92 LLC
+* What A Great Website
+* Whatsits Galore
+* Whole Health
+* Wilke Systems International, Inc
+* World Business Academy
+* WritAnon
+* WTKoch GCP QA Consulting, LLC
+* www.shandormusic.com
+* www.tincan.social
+* X-Lab
+* Xyzzy Kosmic Canonical Distribution LLC
+* Yankee Bookshop
+* Z-Marketing
+* Zocalo Productions
 
 <div id="more">
 See over 500 more
@@ -613,8 +613,9 @@ See over 500 more
 {::options parse_block_html="true" /}
 
 ## Read the Letter
-<strong><a href="https://www.keepthewebopenforbusiness.com/FCC_17-108_smallbusiness-ASBC-filing-170830.pdf">Download the PDF</a> 
-	<div class="letter-content"></strong>
+<strong><a href="https://www.keepthewebopenforbusiness.com/FCC_17-108_smallbusiness-ASBC-filing-170830.pdf">Download the PDF</a></strong>
+
+<div class="letter-content">
 
 > Dear FCC Chairman Ajit Pai and Members of Congress,
 >  

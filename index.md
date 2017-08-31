@@ -615,7 +615,15 @@ See over 500 more
 
 <div class="letter-content">
 
-> Dear FCC Chairman Ajit Pai and Members of Congress,
+> The Honorable Ajit Pai
+> Chairman
+> Federal Communications Commission
+> 445 12th Street SW
+> Washington, DC 20554
+>
+> August 30, 2017
+>
+> Dear FCC Chairman Ajit Pai,
 >  
 > We are a group of businesses empowered by unencumbered
 access to an open Internet.  We are deeply concerned with the Federal
@@ -669,6 +677,9 @@ the deployment of new networks, encouraging more competition in Internet access
 services.
 > 
 > Thank you for considering our views.
+>
+> CC: Members of Congress
+>
 
 </div>
 

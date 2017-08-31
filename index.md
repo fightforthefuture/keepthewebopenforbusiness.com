@@ -8,7 +8,6 @@ layout: default
 <div class="section intro">
 
 # "We are deeply concerned with the FCC's proposal to roll back its existing strong net neutrality rules."
-## Over 500 small businesses have spoken out against new fees, throttling & censorship online.
 
 * [Businesses](#businesses)
 * [Sign On](#signon)
@@ -578,7 +577,6 @@ See over 500 more
 	</div>
 	<div>
 		<input id="postcode" type="text" name="member[postcode]" placeholder="Zip Code *" title="Postcode" required>
-		<p>This information is helpful for alerting members of Congress.</p>
 	</div>
 	<div>
 		<input id="phone" type="tel" name="member[phone_number]" placeholder="Phone Number" title="Phone">

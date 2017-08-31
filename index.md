@@ -615,10 +615,10 @@ See over 500 more
 
 <div class="letter-content">
 
-> The Honorable Ajit Pai
-> Chairman
-> Federal Communications Commission
-> 445 12th Street SW
+> The Honorable Ajit Pai<br>
+> Chairman<br>
+> Federal Communications Commission<br>
+> 445 12th Street SW<br>
 > Washington, DC 20554
 >
 > August 30, 2017

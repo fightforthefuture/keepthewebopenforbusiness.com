@@ -10,7 +10,7 @@ layout: default
 # "We are deeply concerned with the FCC's proposal to roll back its existing strong net neutrality rules."
 
 * [Businesses](#businesses)
-* [Sign On](#signon)
+* [Sign On](#letter)
 
 
 <a href="#letter" class="button">Read The Letter</a>

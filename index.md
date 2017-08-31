@@ -10,7 +10,7 @@ layout: default
 # "We are deeply concerned with the FCC's proposal to roll back its existing strong net neutrality rules."
 
 * [Businesses](#businesses)
-* [Sign On](#letter)
+* [Sign On](#signon)
 
 
 <a href="#letter" class="button">Read The Letter</a>
@@ -552,11 +552,9 @@ See over 500 more
 <div class="section letter">
 
 ## Sign the Letter
-{: #letter }
+{: #signon }
 
 ### Add Your Company's Name Below
-
-{: #signon}
 
 {::options parse_block_html="false" /}
 <div id="petition-form">
@@ -611,6 +609,7 @@ See over 500 more
 {::options parse_block_html="true" /}
 
 ## Read the Letter
+{: #letter }
 <strong><a href="https://www.keepthewebopenforbusiness.com/FCC_17-108_smallbusiness-ASBC-filing-170830.pdf">Download the PDF</a></strong>
 
 <div class="letter-content">

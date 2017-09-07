@@ -33,6 +33,7 @@ layout: default
 
 * 2b1 Inc.
 * 3 Nimbus LLC
+* 4milecircus
 * a-ka-neArt
 * Absolute Voiceover
 * Advanced Surfaces and Processes Inc.
@@ -45,13 +46,18 @@ layout: default
 * Arcway Industries, LLC
 * Arias machine inc.
 * ArrivaDolce
+* Art Of Change LLC
 * Astro Zombies
 * Athena Mayeux, Graphic Design
+* ATX Technology Consulting
 * Audio Video Integration
 * AugustSings
 * Aurora Broadcasting
+* Babies & Grands Music LLC
+* Badger Mountain Vineyard/Powers Winery
 * Bagel Radio
 * Barcelona Sporting Goods
+* Bardic Media
 * baum•hauer photo
 * Bay Buys, LLC
 * BDB Creative
@@ -68,6 +74,7 @@ layout: default
 * BlowFish SEO
 * Blue Egg Adventures
 * Body by Kelli LLC
+* Boise Guest House
 * Boortz PR Communications
 * Boston Building Resources
 * Bothand Consulting, LLC
@@ -97,6 +104,7 @@ layout: default
 * Clayton Cowles Illustration & Lettering
 * Clean air illinois
 * Clearview Furniture
+* Click2Mail.com
 * Cloudly
 * CoachAccountable, LLC
 * Coaching Financial
@@ -104,12 +112,15 @@ layout: default
 * Coherence Collaborative
 * Coler Insulation
 * Collaborative Design & Planning
+* Collier County Pressure Cleaning, LLC
 * Colonial Life
+* Comic Girl Coffee
 * Common Source Acupuncture
 * Communitas Financial Planning
 * Complete Spectrum Financial Services
 * Connectify Inc
 * Conservation Economics
+* CONTEMPL8 T-SHIRTS LLC
 * Continuum Industries, Inc
 * Cooperstown Cheese Company
 * Copia Institute
@@ -125,6 +136,7 @@ layout: default
 * Curiosity IO
 * Custom 509 LLC
 * Cx Associates, LLC
+* Cyclone Press
 * D/R Services Unlimited, Inc.
 * D&T Onsite Computer & Network consulting
 * DAC Audit Services, LLC.
@@ -133,10 +145,12 @@ layout: default
 * Dave Ferguson, Independent Insurance Agent
 * David Cowles Illustration
 * Day to Day Fresh Frozen Foods, LLC
+* DB-Designs
 * DC Action Lab
 * DCC, Inc
 * Dean Lumber Products
 * Del Norte Medical Imaging
+* Design Action Collective
 * Destiny Speaks
 * DetritusGroup
 * devorahssong
@@ -148,6 +162,7 @@ layout: default
 * DK Support Services LLC
 * DL Environmental Services 
 * Dobson Computer Services
+* Donna Rose MA LPC
 * DoTerra Wellness Consultant
 * DPOE
 * Dr. Alison Guzman, MD
@@ -159,6 +174,7 @@ layout: default
 * Dwyer & Coogan, P.C.
 * E K & Associates
 * E. R. West & Associates, Inc.
+* EA Bibey Co
 * Eagleflight Enterprises
 * Ecco Bella
 * eCnet Solutions
@@ -180,6 +196,8 @@ layout: default
 * EvoText Inc.
 * Fabrinique
 * Falconia Partners LLC
+* Fathom
+* FaustEffects Design
 * FDA Consulting, LLC
 * Fiedler on the Roof Construction
 * Figure 8 Investment Strategies
@@ -195,8 +213,10 @@ layout: default
 * Garrin Evan Studios
 * GCI Flooring
 * Global Capital Funding Group, LLC
+* Global Software, Inc.
 * gms tactical
 * Gnosis Media Group
+* Go Bright Marketing
 * Golan Christie Taglia LLP
 * Golden Frog
 * Goldman & Ehrlich
@@ -206,6 +226,7 @@ layout: default
 * Great Northern Landholding and Mining Company, Inc.
 * Great Scott Technology, LLC
 * Hacktron Technology Inc.
+* Happy Druggist
 * HarborWest Design
 * HardPressedRecords
 * Harmony Acupuncture, LLC
@@ -223,6 +244,7 @@ layout: default
 * Hladky Real Property, LLC
 * Holly Kukkonen's Piano Studio
 * HowCreativeSolutions.com
+* http://tru-fitpatterns.com
 * Humblebee Media 
 * Hutch Heating & Cooling Inc.
 * iFixit
@@ -235,6 +257,7 @@ layout: default
 * Inner Renewal and the Healthy Path
 * Innovative Awareness LLC
 * Instant Ocean
+* Intelligent Solutions, LLC
 * Inter-Hemisphere Tours
 * Investors Team Realty Inc.
 * Iris b. Branding & communications
@@ -248,13 +271,17 @@ layout: default
 * J.F.S. Production Co., Inc.
 * Jan Niemira Psychotherapy
 * Jane Thomas Press
+* Jane's Daughters
 * Janell McCanna Design
 * JB Wood Group LLC
+* Jedidjah de Vries Violins
 * JerrixIT
 * jewelry by NaLa
 * JL Gray Company
 * John F. Kindergan, Inc.
 * John Fister Music
+* joliefemmebydiana
+* jonbjohns Consulting LLC
 * Joseph Loduca, DDS - General Dentistry
 * Juggin Visuals
 * JuniorExplorerClub
@@ -270,6 +297,7 @@ layout: default
 * Kenneth A.. Henry, Attorney at Law
 * Keyrenter Property Management Chicago North
 * KJM Consultancy
+* Kween Kargo Bike Shop
 * L.W. Griffins Supply LLC
 * Langelan & Associates
 * Lanis Fabric Arts
@@ -336,7 +364,9 @@ layout: default
 * Move Beyond Limits
 * Mow Town Country Services
 * Multilingual Connections
+* Myrick Visual, LLC
 * Mysterious Galaxy
+* Namaste Yoga
 * Needleman Property Management
 * Net Informant, Inc.
 * Netcetera, Inc.
@@ -353,6 +383,7 @@ layout: default
 * O'BRIEN Family Realty
 * Oaktown Jerk
 * Ocean Motion Media, LLC
+* Odin Engineering
 * OHG Networks LLC
 * Ohrvall Media LLC
 * Olio City, Inc.
@@ -367,6 +398,7 @@ layout: default
 * Paladin Contemporaries
 * Panelist Media
 * Pearce Construction Company
+* Performa Vending, Amusement, and Entertainment Group
 * Perry Harris Plumbing and Heating
 * Personal Beast Inc.
 * Pete Miller's Water and Wildlife Studio
@@ -400,6 +432,8 @@ layout: default
 * Ritz Sales & Service
 * Roaring Tiger
 * Robb Reece Photography
+* Robosane
+* Rootwork.org
 * Ross Cottage
 * Rowan Everard LLC
 * Rune's Furniture Co.
@@ -434,15 +468,20 @@ layout: default
 * SLPPOA
 * Small Business Advocacy Council
 * SMB Logic
+* Smith Custom Framing
 * Smith, Rolfes & Skavdahl Company, L.P.A.
+* Snap Synapse
 * Snowbound Books
 * Snyder Electronics
 * Soap Alchemy LLC
+* Sol Chariots Pedicab Cooperative
 * SoloProWebs
+* Sondrol, LLC
 * Sounding Stone
 * Space Inch
 * Spark PC
 * Spike Maiden Mueller, Composer/Arranger
+* Spilled Milk Catering
 * Spirit Filled Press
 * Spiritbody Inc
 * Spirituality & Practice
@@ -452,6 +491,7 @@ layout: default
 * Starbelly Studios Inc
 * Starvault LLC
 * Steadfast
+* Steadfast Networks
 * StreamText.Net, Inc.
 * Sue Kauffman Fitness
 * Sunflower
@@ -497,6 +537,7 @@ layout: default
 * Timber Ridge Construction
 * Ting 
 * Tiny Design Studio
+* TotalCapacity
 * Trade Inflo
 * Transition Services, Inc.
 * TRC Tech
@@ -506,11 +547,13 @@ layout: default
 * True North Creative Learning Center
 * True Self Coaching, LLC
 * Tye Newton Design
+* U.S. Jack Company
 * Underflow Studios
 * United Business Association of Midway
 * Unlimited Diamond Works, LLC
 * Unlimited Media
 * Urban Iguana Productions
+* VegFest, Inc.
 * Ventamatic LTD
 * Venture Boxes, LLC
 * Vidme
@@ -521,14 +564,19 @@ layout: default
 * WakaTime
 * Wallin Mental Medical
 * Wanderu Inc
+* WashingTech Tech Policy Podcast
+* Web Magi
 * WebConference.com
 * Well Spent
 * WellBeing: Therapeutic Massage
 * Westy92 LLC
+* Wettlin Agency Inc.
 * What A Great Website
 * Whatsits Galore
+* White Lioness Coaching, LLC
 * Whole Health
 * Wilke Systems International, Inc
+* Wooten Construction Company
 * World Business Academy
 * WritAnon
 * WTKoch GCP QA Consulting, LLC
